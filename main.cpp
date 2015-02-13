@@ -28,4 +28,4 @@ int main(){
     myclass * obj = new myclass();
     obj->set_a(123);
 }
-
+//321
