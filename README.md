@@ -12,4 +12,5 @@ list 'myclass::method' - show code of mehtod.
 break filename:n - set breakpoint to file on the line with number specified by n
 del n - delete breakpoint with number specified by n
 run args - start program with arguments
+ptype var - shows type of variable
 ```
