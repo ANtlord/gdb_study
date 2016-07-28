@@ -14,3 +14,10 @@ del n - delete breakpoint with number specified by n
 run args - start program with arguments
 ptype var - shows type of variable
 ```
+Calling methods
+```
+call var.method()
+call ptr->method()
+call method()
+call method(1)
+```
